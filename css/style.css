@@ -60,15 +60,15 @@ Slider
 }
 .cd-slider > li:first-of-type {
   background-color: #4a3553;
-  background-image: url(../img/img-1.jpg);
+  background-image: url(../img/img-united-states-pentagon.jpg);
 }
 .cd-slider > li:nth-of-type(2) {
   background-color: #ffb251;
-  background-image: url(../img/img-2.jpg);
+  background-image: url(../img/img-o-WASHINGTON-DC.jpg);
 }
 .cd-slider > li:nth-of-type(3) {
   background-color: #7d7160;
-  background-image: url(../img/img-3.jpg);
+  background-image: url(../img/img-20130210-220442-pic-587721807.jpg);
 }
 .cd-slider > li:nth-of-type(4) {
   background-color: #ff625a;
