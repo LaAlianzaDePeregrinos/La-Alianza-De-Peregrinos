@@ -74,7 +74,15 @@ Slider
   background-color: #ff625a;
   background-image: url(../img/img-2016-09-21-aa55afdd_large.jpg);
 }
-.cd-slider > li:first-of-type, .cd-slider > li:nth-of-type(2), .cd-slider > li:nth-of-type(3), .cd-slider > li:nth-of-type(4) {
+.cd-slider > li:nth-of-type(2) {
+  background-color: #ffb251;
+  background-image: url(../img/img-o-WASHINGTON-DC.jpg);
+}
+.cd-slider > li:nth-of-type(2) {
+  background-color: #ffb251;
+  background-image: url(../img/img-o-WASHINGTON-DC.jpg);
+}
+.cd-slider > li:first-of-type, .cd-slider > li:nth-of-type(2), .cd-slider > li:nth-of-type(3), .cd-slider > li:nth-of-type(4), .cd-slider > li:nth-of-type(2), .cd-slider > li:nth-of-type(2) {
   background-size: cover;
 }
 .cd-slider > li > div {
